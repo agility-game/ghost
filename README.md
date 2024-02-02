@@ -18,3 +18,5 @@ See https://render.com/docs/deploy-ghost.
 ## Custom Subdomain
 
 Ghost can now be seen at https://ghost-mq83.onrender.com as well as https://blog.agility-game.com.
+
+Any changes in this repository will be automatically synchronized with the above web site.
