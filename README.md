@@ -28,4 +28,6 @@ Any changes in this repository will be automatically synchronized with the above
 
 ## Content Editor
 
-For editing the content on Ghost, visit https://blog.agility-game.com/ghost/#/setup
+For subscribing to the editing suite of Ghost, visit https://blog.agility-game.com/ghost/#/setup
+
+Once you have signed up, you can start editing at https://blog.agility-game.com/ghost/#/setup/done
