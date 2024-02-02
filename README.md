@@ -25,3 +25,7 @@ Any changes in this repository will be automatically synchronized with the above
 
 - [Tutorials](https://ghost.org/tutorials/)
 - [Ghost.org Complete Tutorial - Turn Your Blog into a Subscription Business](https://www.youtube.com/watch?v=YVakhK8UOWs)
+
+## Content Editor
+
+For editing the content on Ghost, visit https://blog.agility-game.com/ghost/#/setup
