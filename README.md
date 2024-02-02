@@ -23,5 +23,5 @@ Any changes in this repository will be automatically synchronized with the above
 
 ## Tutorials for Ghost
 
-- [Tutorials](https://ghost.org/tutorials/0
+- [Tutorials](https://ghost.org/tutorials/)
 - [Ghost.org Complete Tutorial - Turn Your Blog into a Subscription Business](https://www.youtube.com/watch?v=YVakhK8UOWs)
