@@ -14,3 +14,7 @@ This is a template repository for running [Ghost](https://ghost.org) on Render.
 ## Deployment
 
 See https://render.com/docs/deploy-ghost.
+
+## Custom Subdomain
+
+Ghost can now be seen at https://ghost-mq83.onrender.com as well as https://blog.agility-game.com.
